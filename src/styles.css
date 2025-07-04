@@ -13,7 +13,6 @@ img {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    object-position: 0%;
     margin: 20px;
     border: 2px solid black;
     border-radius: 50%;    
